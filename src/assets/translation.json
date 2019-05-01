@@ -1,0 +1,9 @@
+{
+  "appname": {"title": ["Notes application", "Notes aplikace"]},
+  "about": {"title": ["About this application", "O aplikaci"]},
+  "notes": {"title": ["List of notes on remote server", "Seznam poznámek na vzdáleném serveru"]},
+  "notesnew": {"title": ["Create new note", "Vytvořit novou poznámku"], "default": ["Enter note's text", "Text poznámky"]},
+  "notesedit": {"title": ["Edit content of note nr. ", "Změnit poznámku č. "]},
+  "notestable": {"id": ["id", "id"], "title": ["note title", "název poznámky"]},
+  "button": {"about": ["About", "O aplikaci"], "notes": ["Notes", "Poznámky"], "edit": ["Edit", "Upravit"], "delete": ["Delete", "Smazat"], "save": ["Save", "Uložit"], "create": ["Create new note", "Vytvoř novou poznámku"], "cancel": ["Cancel", "Zrušit"], "update": ["Update", "Aktualizovat"]}
+}
