@@ -1,5 +1,5 @@
 {
-  "name": "NotesApplication",
+  "name": "notesapplication",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,6 +27,5 @@
   ],
   "devDependencies": {
     "react-localize-redux": "^3.5.3"
-  },
-  "homepage": "http://localhost:8080/nts"
+  }
 }
